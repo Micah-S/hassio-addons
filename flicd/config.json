@@ -8,7 +8,7 @@
     "armhf",
     "armv7",
     "i386"
-  ]
+  ],
   "description": "React to flic button presses",
   "startup": "services",
   "boot": "auto",
