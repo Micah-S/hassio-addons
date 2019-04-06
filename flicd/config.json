@@ -5,7 +5,6 @@
   "slug": "flicd",
   "arch": [
     "amd64"
-    //,"armhf"
   ],
   "description": "React to flic button presses",
   "startup": "services",
