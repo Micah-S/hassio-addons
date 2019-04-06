@@ -3,6 +3,7 @@
   "name": "flicd",
   "version": "1.2",
   "slug": "flicd",
+  "arch": ["armhf", "aarch64"],
   "description": "React to flic button presses",
   "startup": "services",
   "boot": "auto",
